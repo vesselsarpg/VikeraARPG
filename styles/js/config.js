@@ -16,7 +16,7 @@ let charadex = {};
 /* ==================================================================== */
 charadex.site = {
   title: "Simulic",
-  url: "https://vesselsarpg.github.io/Simulic-ARPG/",
+  url: "https://vesselsarpg.github.io/SimulicsARPG/",
   description: `An Alien ARPG Species`
 }
 
