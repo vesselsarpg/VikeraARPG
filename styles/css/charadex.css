@@ -48,6 +48,8 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    border: 3px solid #000000;
+    padding: 10px;  
 }
 
   --cd-body-background-color: #121111;
