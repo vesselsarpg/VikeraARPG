@@ -121,7 +121,7 @@ body {
 
   /* Background */
   --cd-navbar-dropdown-background-color: var(--cd-navbar-background-color);
-  --cd-navbar-dropdown-background-hover: var(--cd-primary-color);
+  --cd-navbar-dropdown-background-hover: #bedbb9;
 
   /* Link/Text */
   --cd-navbar-dropdown-link-color: var(--cd-navbar-link-color);
@@ -283,7 +283,7 @@ a:active {
 /* Navbar
 /* ============================================================= */
 .navbar {
-  background-color: var(--cd-navbar-background-color) !important;
+  background-color: #572a5b !important;
   font-family: var(--cd-navbar-font-family) !important;
   z-index: 2000;
 }
@@ -299,7 +299,7 @@ a:active {
 }
 
 .navbar .navbar-nav .nav-link {
-  color: var(--cd-navbar-link-color) !important;
+  color: #97a1c2 !important;
 }
 
 .navbar .navbar-nav .nav-link:hover,
@@ -330,7 +330,7 @@ a:active {
 
 .navbar .dropdown-menu {
   color: var(--cd-navbar-dropdown-link-color) !important;
-  background-color: var(--cd-navbar-dropdown-background-color) !important;
+  background-color: #3d2142 !important;
   border-radius: var(--cd-navbar-dropdown-border-radius) !important;
   border: none;
   margin-top: 0;
@@ -347,7 +347,7 @@ a:active {
 
 .navbar .dropdown-item,
 .navbar .dropdown-item-text {
-  color: var(--cd-navbar-dropdown-link-color) !important;
+  color: #8ac59c !important;
   transition: color .2s ease, background .2s ease;
 }
 
