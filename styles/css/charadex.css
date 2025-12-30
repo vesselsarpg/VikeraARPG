@@ -48,7 +48,7 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 0 40px rgba(0, 0, 0, 3);
 }
 
   --cd-body-background-color: #121111;
