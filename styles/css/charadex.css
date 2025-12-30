@@ -31,8 +31,8 @@ body {
 }
 
   
-  --cd-primary-color: #36607e;
-  --cd-primary-text-color: #fff;
+  --cd-primary-color: #94a2c5;
+  --cd-primary-text-color: #28242a;
 
   /* ============================================================= */
   /* Secondary Color
@@ -481,7 +481,7 @@ a:active {
 }
 
 .card-header {
-  background-color: var(--cd-card-header-background-color) !important;
+  background-color: #632861ed !important;
   border-bottom-color: var(--cd-card-border-color) !important;
   border-bottom-width: var(--cd-card-border-width) !important;
   border-bottom-style: var(--cd-card-border-style) !important;
