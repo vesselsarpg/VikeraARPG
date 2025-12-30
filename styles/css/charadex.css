@@ -275,7 +275,7 @@ a:visited {
 a:hover,
 a:focus,
 a:active {
-  color: var(--cd-link-text-color-hover);
+  color: #a6cf9c;
   text-decoration: none;
 }
 
@@ -308,7 +308,7 @@ a:active {
 }
 
 .navbar .navbar-toggler {
-  color: var(--cd-navbar-link-color) !important;
+  color: #a6cf9c !important;
   border: none !important;
 }
 
@@ -525,7 +525,7 @@ a.badge.badge-primary:focus,
 a.badge.badge-primary:active {
   color: var(--cd-button-text-color-hover) !important;
   border-color: var(--cd-button-border-color-hover) !important;
-  background-color: var(--cd-button-background-color-hover) !important;
+  background-color: #a6cf9c !important;
   box-shadow: none !important;
 }
 
