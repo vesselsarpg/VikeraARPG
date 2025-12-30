@@ -490,7 +490,7 @@ a:active {
 }
 
 .card-footer {
-  background-color: var(--cd-card-header-background-color) !important;
+  background-color: #140722 !important;
   border-top-color: var(--cd-card-border-color) !important;
   border-top-width: var(--cd-card-border-width) !important;
   border-top-style: var(--cd-card-border-style) !important;
