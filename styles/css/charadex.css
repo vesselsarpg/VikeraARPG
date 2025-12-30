@@ -22,14 +22,6 @@ body {
   background-position: center;
   }
 
-  body {
-    background-image: url("https://f2.toyhou.se/file/f2-toyhou-se/images/112525287_cjfQI0UqlDqXPwe.jpg");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-}
-
-
   a,button{
  cursor: url("https://f2.toyhou.se/file/f2-toyhou-se/images/112525267_odTYFnWwxnqy3OK.png"), auto;
 }
@@ -56,7 +48,7 @@ body {
   --cd-faded-background-color: #585858;
 
   /* Background Extras */
-  --cd-body-background-image: url();
+  --cd-body-background-image: url(https://f2.toyhou.se/file/f2-toyhou-se/images/112525287_cjfQI0UqlDqXPwe.jpg);
 
   /* ============================================================= */
   /* Text
