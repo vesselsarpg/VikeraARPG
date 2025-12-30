@@ -322,6 +322,11 @@ a:active {
   margin-left: .25rem;
 }
 
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #223101;
+    background-color: #a6cf9c;
+}
+
 
 /* ============================================================= */
 /* Dropdowns
@@ -508,6 +513,7 @@ a:active {
   border-style: var(--cd-button-border-style) !important;
   border-width: var(--cd-button-border-width) !important;
   border-radius: var(--cd-button-border-radius) !important;
+  background-color: #a1cec66e !important;
 }
 
 .btn.btn-primary,
