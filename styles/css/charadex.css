@@ -21,6 +21,15 @@ body {
   background-size: cover;
   background-position: center;
   }
+
+  a,button{
+ cursor: url("https://f2.toyhou.se/file/f2-toyhou-se/images/112525267_odTYFnWwxnqy3OK.png"), auto;
+}
+
+.cursor {
+    cursor: url("https://f2.toyhou.se/file/f2-toyhou-se/images/112525280_0Z9TQKLZHqB9OWk.png");
+}
+
   
   --cd-primary-color: #36607e;
   --cd-primary-text-color: #fff;
